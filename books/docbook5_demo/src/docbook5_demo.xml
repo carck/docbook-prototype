@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding="utf-8"?>
+
+<book version="5.0"
+    xmlns="http://docbook.org/ns/docbook"
+    xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:xl="http://www.w3.org/1999/xlink"
+    xml:lang="zh_CN"
+    >
+
+<info>
+    <title>Docbook5环境搭建演示</title>
+    <abstract>
+        <para>本文主要介绍了如何在纯Windows的环境下搭建Docbook 5开发环境</para>
+    </abstract>
+    
+    <author><personname><firstname>Crifan</firstname><surname>Li</surname></personname></author>    
+    <pubdate>2012-06-05</pubdate>
+    <copyright>
+        <year>2012</year>
+        <holder>Crifan</holder>
+        <holder><link xl:href="http://crifan.com" /></holder>
+    </copyright>
+    <legalnotice>
+        <para>本文章遵从：<link xl:href="http://creativecommons.org/licenses/by-nc/2.5/cn/">署名-非商业性使用 2.5 中国大陆(CC BY-NC 2.5)</link></para>
+    </legalnotice>
+</info>
+
+
+<chapter><title>第一章的标题</title>
+    <para>关于更多的Docbook方面的内容，可以去参考：<link xl:href="http://www.crifan.com/files/doc/docbook/docbook_dev_note/release/html/docbook_dev_note.html">Docbook开发手记</link></para>
+
+    <sect1><title>第一章第一小节的标题</title>
+        <para>可以在这里输入第一章第一小节中的内容</para>
+        
+        <sect2><title>第一章第二小节的标题</title>
+            <para></para>
+        </sect2>
+    </sect1>
+
+    <sect1><title>第一章第二小节标题</title>
+        <para></para>
+    </sect1>
+</chapter>
+
+<chapter><title>第二章</title>
+    <para></para>
+</chapter>
+
+</book>

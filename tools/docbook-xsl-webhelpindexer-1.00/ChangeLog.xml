@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<log>
+  <logentry revision="8921">
+    <author>dcramer</author>
+    <date>2010-10-06T02:38:26.910738Z</date>
+    <paths>
+      <path kind="" copyfrom-path="/trunk/xsl/webhelp/indexer/src" copyfrom-rev="8917" action="A">/trunk/xsl-webhelpindexer/src</path>
+      <path kind="" action="D">/trunk/xsl/webhelp/indexer/src</path>
+    </paths>
+    <msg>Refactoring webhelp to separate more cleanly the xsl and java code.</msg>
+  </logentry>
+  <logentry revision="8919">
+    <author>dcramer</author>
+    <date>2010-10-06T02:29:34.301826Z</date>
+    <paths>
+      <path kind="" action="A">/trunk/xsl-webhelpindexer/Makefile</path>
+      <path kind="" action="A">/trunk/xsl-webhelpindexer/NOTICE.txt</path>
+      <path kind="" action="A">/trunk/xsl-webhelpindexer/LICENSE.txt</path>
+    </paths>
+    <msg>Adding files somehow missed in the original commit</msg>
+  </logentry>
+  <logentry revision="8918">
+    <author>dcramer</author>
+    <date>2010-10-06T02:27:47.843417Z</date>
+    <paths>
+      <path kind="" action="A">/trunk/xsl-webhelpindexer/VERSION</path>
+      <path kind="" action="A">/trunk/xsl-webhelpindexer/lib</path>
+      <path kind="" action="A">/trunk/xsl-webhelpindexer/nbproject</path>
+      <path kind="" action="A">/trunk/xsl-webhelpindexer/nbproject/project.properties</path>
+      <path kind="" action="M">/trunk/xsl/extensions/Makefile</path>
+      <path kind="" action="A">/trunk/xsl-webhelpindexer/nbproject/project.xml</path>
+      <path kind="" action="A">/trunk/xsl-webhelpindexer/nbproject/genfiles.properties</path>
+      <path kind="" action="A">/trunk/xsl-webhelpindexer/build.xml</path>
+      <path kind="" action="A">/trunk/xsl-webhelpindexer/lib/lucene-analyzers-3.0.0.jar</path>
+      <path kind="" action="A">/trunk/xsl-webhelpindexer/lib/lucene-core-3.0.0.jar</path>
+      <path kind="" action="A">/trunk/xsl-webhelpindexer</path>
+      <path kind="" action="M">/trunk/xsl/webhelp/Makefile</path>
+      <path kind="" action="M">/trunk/xsl/webhelp/build.xml</path>
+      <path kind="" action="A">/trunk/xsl-webhelpindexer/nbproject/build-impl.xml</path>
+    </paths>
+    <msg>Refactoring webhelp to separate more cleanly the xsl and java code.</msg>
+  </logentry>
+</log>

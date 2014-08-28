@@ -1,0 +1,6 @@
+<project>
+  <property name="input-xml" value="docbook5_demo.xml"/>
+  <property name="input-images-dirs" value="images/** figures/** graphics/**"/>
+  <property name="output-dir" value="../output/webhelp"/>
+  <import file="../../../tools/docbook-xsl-ns-1.78.1/webhelp/build.xml"/>
+</project>

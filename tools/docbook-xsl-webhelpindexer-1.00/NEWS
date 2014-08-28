@@ -1,0 +1,29 @@
+Changes since the 0.00 release
+
+Note: This document lists changes only since the 0.00 release. If you instead
+want a record of the complete list of changes for the codebase over its entire
+history, you can obtain one by running the following commands:
+
+  svn checkout https://docbook.svn.sourceforge.net/svnroot/docbook/trunk/xsl-webhelpindexer
+  svn log --xml --verbose xsl-webhelpindexer > ChangeHistory.xml
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Table of Contents
+
+Release Notes: 1.00
+
+    Lib
+
+Release Notes: 1.00
+
+The following is a list of changes that have been made since the 0.00 release.
+
+Lib
+
+The following changes have been made to the lib code since the 0.00 release.
+
+  ● David Cramer: lucene-analyzers-3.0.0.jar; lucene-core-3.0.0.jar
+
+    Refactoring webhelp to separate more cleanly the xsl and java code.
+
